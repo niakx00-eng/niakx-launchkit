@@ -1,0 +1,12 @@
+<svg width="480" height="480" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="niakxDiagonal" x1="29" y1="90" x2="91" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#00C2FF"/>
+    </linearGradient>
+  </defs>
+  <!-- N monogram: two verticals + ascending diagonal accent -->
+  <rect x="20" y="22" width="18" height="76" rx="9" fill="#0A0F1E"/>
+  <rect x="82" y="22" width="18" height="76" rx="9" fill="#0A0F1E"/>
+  <line x1="29" y1="90" x2="91" y2="30" stroke="url(#niakxDiagonal)" stroke-width="18" stroke-linecap="round"/>
+</svg>
