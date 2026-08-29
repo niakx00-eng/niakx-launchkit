@@ -1,0 +1,102 @@
+NIAKX LAUNCHKIT — COMMERCIAL LICENSE
+Version 1.0 — 2026
+
+Copyright (c) 2026 NIAKX. All rights reserved.
+
+This license governs the use of NIAKX LaunchKit, including all files
+contained within the package: brand identity assets (logo files,
+color specifications, and typography guidance), the Brand Guide, the
+landing page template, the pitch deck template, the 200-prompt AI
+collection, and all accompanying documentation (collectively, the
+"Software").
+
+By downloading, installing, or using the Software, you ("Licensee")
+agree to the terms below.
+
+1. GRANT OF LICENSE
+
+   NIAKX grants Licensee a non-exclusive, worldwide, non-transferable
+   license to use the Software, subject to the terms of this
+   agreement.
+
+2. PERMITTED USES
+
+   Licensee MAY:
+
+   a. Use the Software for personal projects.
+   b. Use the Software for commercial projects, including client
+      work and products intended for sale, without restriction on
+      the number of end products created.
+   c. Modify, adapt, restyle, and edit any file in the Software to
+      fit a specific project.
+   d. Use the Software without providing credit or attribution to
+      NIAKX in any public or private context.
+
+3. RESTRICTIONS
+
+   Licensee MAY NOT:
+
+   a. Redistribute the Software, in whole or in part, in its
+      original or a modified form, as a standalone file, template,
+      or asset package — whether for free or for payment.
+   b. Resell, sublicense, or repackage the original files as a
+      competing or derivative product, template marketplace listing,
+      or asset bundle.
+   c. Share access credentials, download links, or copies of the
+      Software with any party who has not independently obtained a
+      valid license.
+   d. Use the NIAKX name, logo, or brand assets to imply that a
+      derivative product is created, endorsed, or maintained by
+      NIAKX.
+
+   For clarity: building a product, website, or deliverable that
+   uses the Software is permitted and encouraged. Distributing the
+   underlying source files of the Software itself — on their own,
+   separate from the finished product you built with them — is not.
+
+4. UPDATES
+
+   This license includes free access to all future updates to the
+   Software for the lifetime of the product, at no additional cost.
+   Updates may include revised brand assets, additional documentation,
+   or expanded content, and will be made available through the same
+   channel as the original purchase.
+
+5. OWNERSHIP
+
+   The Software, including all associated trademarks, trade dress,
+   and copyrighted content, remains the exclusive property of NIAKX.
+   This license grants usage rights only; no ownership rights are
+   transferred. All rights not expressly granted are reserved by
+   NIAKX.
+
+6. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL NIAKX BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+   ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+   OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. TERMINATION
+
+   This license is effective until terminated. NIAKX may terminate
+   this license immediately if Licensee fails to comply with any
+   term herein. Upon termination, Licensee must cease all use of the
+   Software and destroy any copies of the original source files in
+   their possession. Products already built and published using the
+   Software prior to termination are not affected.
+
+9. GOVERNING LAW
+
+   This license shall be governed by and construed in accordance with
+   applicable law in the jurisdiction in which NIAKX is incorporated,
+   without regard to conflict-of-law principles.
+
+For licensing questions, contact: hello@niakx.com
