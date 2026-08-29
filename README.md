@@ -4,7 +4,7 @@
 
 **Build. Launch. Scale.**
 
-AI-powered digital products for modern founders.
+Premium AI-powered startup assets built for modern founders.
 
 </div>
 
